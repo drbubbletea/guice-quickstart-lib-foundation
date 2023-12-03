@@ -13,6 +13,7 @@
     <version>0.1.0</version>
 
     <name>lib-foundation</name>
+    <url>https://github.com/drbubbletea/guice-quickstart-lib-foundation</url>
 
     <properties>
     </properties>
